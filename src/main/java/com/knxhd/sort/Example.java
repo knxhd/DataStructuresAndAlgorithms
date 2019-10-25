@@ -26,6 +26,7 @@ public class Example {
     }
 
     public static void show(Comparable[] o) {
+        System.out.println("ceshiyixia");
         System.out.println("测试一下啊");
         System.out.println("展示排序后的数据");
         for (Comparable comparable : o) {
